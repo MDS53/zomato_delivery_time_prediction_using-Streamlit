@@ -1,0 +1,1 @@
+[ 2024-06-03 17:10:54,725 ] 52 root - ERROR - 'Predictor' object has no attribute 'test' at Prediction_Pipeline.py file

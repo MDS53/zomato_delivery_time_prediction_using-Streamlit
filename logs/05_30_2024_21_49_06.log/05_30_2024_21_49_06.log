@@ -1,0 +1,6 @@
+[ 2024-05-30 21:49:06,238 ] 26 root - INFO - CustomTransformer2 class ran successfully 
+[ 2024-05-30 21:49:06,238 ] 42 root - INFO - ColumnTransformer3 ran succesfully
+[ 2024-05-30 21:49:06,312 ] 88 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 21:49:06,320 ] 110 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 21:49:06,369 ] 161 root - ERROR - could not convert string to float: 'INDORES19DEL02' at pipeline() from Pipe class 
+[ 2024-05-30 21:49:06,373 ] 67 root - INFO - Pipes's constructor ran successfully

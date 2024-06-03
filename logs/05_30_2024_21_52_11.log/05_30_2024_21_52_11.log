@@ -1,0 +1,13 @@
+[ 2024-05-30 21:52:11,332 ] 26 root - INFO - CustomTransformer2 class ran successfully 
+[ 2024-05-30 21:52:11,332 ] 42 root - INFO - ColumnTransformer3 ran succesfully
+[ 2024-05-30 21:52:11,396 ] 88 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 21:52:11,401 ] 110 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 21:52:11,761 ] 88 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 21:52:11,768 ] 110 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 21:52:11,833 ] 88 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 21:52:11,837 ] 110 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 21:52:11,873 ] 33 root - INFO - Metrics() from Performance metrics class done 
+[ 2024-05-30 21:52:11,878 ] 46 root - INFO - Errors() from Performance metrics class done
+[ 2024-05-30 21:52:11,878 ] 15 root - INFO - Performance metrics Class done
+[ 2024-05-30 21:52:12,346 ] 158 root - INFO - pipeline() from Pipe class ran successfully
+[ 2024-05-30 21:52:12,346 ] 67 root - INFO - Pipes's constructor ran successfully

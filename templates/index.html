@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Delivery Information Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa; /* Light gray background */
+            padding: 20px;
+        }
+        h1 {
+            color: #e91e63; /* Zomato pink */
+            text-align: center;
+            font-size: 28px;
+            margin-bottom: 20px;
+        }
+        p {
+            text-align: center;
+            font-style: italic;
+            color: #555; /* Dark gray */
+            font-size: 16px;
+            margin-bottom: 30px;
+        }
+        form {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #fff; /* White background */
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        label {
+            font-weight: bold;
+            color: #333; /* Dark gray */
+        }
+        select, input[type="number"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+            font-size: 16px;
+        }
+        input[type="submit"] {
+            background-color: #e91e63; /* Zomato pink */
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        input[type="submit"]:hover {
+            background-color: #d81b60; /* Darker pink on hover */
+        }
+    </style>
+</head>
+<body>
+    <h1>Fast and Convenient Delivery</h1>
+    <p>"Delivery at your doorstep at the easiest and shortest time."</p>
+    <form method="post">
+        <p>Enter Delivery Information </p>
+        <label for="Delivery_person_ID">Delivery Person ID:</label>
+        <input type="text" id="Delivery_person_ID" name="Delivery_person_ID" required><br><br>
+
+        <label for="Delivery_person_Age">Delivery Person Age:</label>
+        <input type="number" id="Delivery_person_Age" name="Delivery_person_Age" required><br><br>
+
+        <label for="Delivery_person_Ratings">Delivery Person Ratings:</label>
+        <input type="number" id="Delivery_person_Ratings" name="Delivery_person_Ratings" step="0.1" required><br><br>
+
+        <label for="Weather_conditions">Weather Conditions:</label>
+        <select id="Weather_conditions" name="Weather_conditions" required>
+            <option value="Fog">Fog</option>
+            <option value="Stormy">Stormy</option>
+            <option value="Sandstorms">Sandstorms</option>
+            <option value="Windy">Windy</option>
+            <option value="Cloudy">Cloudy</option>
+            <option value="Sunny">Sunny</option>
+        </select><br><br>
+
+        <label for="Road_traffic_density">Road Traffic Density:</label>
+        <select id="Road_traffic_density" name="Road_traffic_density" required>
+            <option value="Jam">Jam</option>
+            <option value="High">High</option>
+            <option value="Medium">Medium</option>
+            <option value="Low">Low</option>
+        </select><br><br>
+
+        <label for="Vehicle_condition">Vehicle Condition:</label>
+        <select id="Vehicle_condition" name="Vehicle_condition" required>
+            <option value="0">0 - Very Poor Condition</option>
+            <option value="1">1 - Poor Condition</option>
+            <option value="2">2 - Fair Condition</option>
+            <option value="3">3 - Good Condition</option>
+        </select><br><br>
+
+        <label for="Type_of_order">Type of Order:</label>
+        <select id="Type_of_order" name="Type_of_order" required>
+            <option value="Snack">Snack</option>
+            <option value="Meal">Meal</option>
+            <option value="Drinks">Drinks</option>
+            <option value="Buffet">Buffet</option>
+        </select><br><br>
+
+        <label for="Type_of_vehicle">Type of Vehicle:</label>
+        <select id="Type_of_vehicle" name="Type_of_vehicle" required>
+            <option value="motorcycle">Motorcycle</option>
+            <option value="scooter">Scooter</option>
+            <option value="electric_scooter">Electric Scooter</option>
+            <option value="bicycle">Bicycle</option>
+        </select><br><br>
+
+        <label for="multiple_deliveries">Multiple Deliveries:</label>
+        <select id="multiple_deliveries" name="multiple_deliveries" required>
+            <option value="0">0</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+        </select><br><br>
+
+        <label for="Festival">Festival:</label>
+        <select id="Festival" name="Festival" required>
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+        </select><br><br>
+
+        <label for="City">City:</label>
+        <select id="City" name="City" required>
+            <option value="Metropolitan">Metropolitan</option>
+            <option value="Urban">Urban</option>
+            <option value="Semi-Urban">Semi-Urban</option>
+        </select><br><br>
+
+        <label for="Distance_in_kms">Distance in Kms (greater than 2):</label>
+        <input type="number" id="Distance_in_kms" name="Distance_in_kms" step="0.1" min="2.0" required><br><br>
+
+        <label for="Order_Day">Order Day (1-31):</label>
+        <input type="number" id="Order_Day" name="Order_Day" min="1" max="31" required><br><br>
+
+        <label for="Order_month">Order Month (1-12):</label>
+        <input type="number" id="Order_month" name="Order_month" min="1" max="12" required><br><br>
+
+        <label for="Order_year">Order Year:</label>
+        <input type="number" id="Order_year" name="Order_year" required><br><br>
+
+        <label for="Time_Orderd_Hour">Time Ordered Hour (0-23):</label>
+        <input type="number" id="Time_Orderd_Hour" name="Time_Orderd_Hour" min="0" max="23" required><br><br>
+
+        <label for="Time_Orderd_mins">Time Ordered Mins (0-59):</label>
+        <input type="number" id="Time_Orderd_mins" name="Time_Orderd_mins" min="0" max="59" required><br><br>
+
+        <label for="Time_Order_picked_Hour">Time Order Picked Hour (0-23):</label>
+        <input type="number" id="Time_Order_picked_Hour" name="Time_Order_picked_Hour" min="0" max="23" required><br><br>
+
+        <label for="Time_Order_picked_mins">Time Order Picked Mins (0-59):</label>
+        <input type="number" id="Time_Order_picked_mins" name="Time_Order_picked_mins" min="0" max="59" required><br><br>
+
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>

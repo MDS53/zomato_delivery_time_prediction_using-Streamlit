@@ -1,0 +1,1 @@
+[ 2024-05-30 17:41:23,854 ] 34 root - ERROR - [Errno 2] No such file or directory: 'transformer.pkl' at Prediction_Pipeline.py file

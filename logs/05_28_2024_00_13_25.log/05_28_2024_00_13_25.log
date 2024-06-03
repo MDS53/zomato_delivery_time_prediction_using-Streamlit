@@ -1,0 +1,24 @@
+[ 2024-05-28 00:13:25,932 ] 35 root - ERROR - name 'logging' is not defined at Prediction_Pipeline.py file
+[ 2024-05-28 00:13:25,939 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-05-28 00:13:25,942 ] 97 werkzeug - INFO -  * Debugger PIN: 220-933-716
+[ 2024-05-28 00:14:22,290 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-28 00:14:22,291 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-28 00:14:22,291 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-28 00:14:22,389 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-28 00:14:22,390 ] 38 root - INFO - 
+[ 2024-05-28 00:14:22,394 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/May/2024 00:14:22] "POST / HTTP/1.1" 200 -
+[ 2024-05-28 00:14:28,515 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/May/2024 00:14:28] "GET /reasons HTTP/1.1" 200 -
+[ 2024-05-28 00:14:32,629 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/May/2024 00:14:32] "GET / HTTP/1.1" 200 -
+[ 2024-05-28 01:01:23,429 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-28 01:01:23,430 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-28 01:01:23,431 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-28 01:01:23,437 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-28 01:01:23,438 ] 38 root - INFO - 
+[ 2024-05-28 01:01:23,438 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/May/2024 01:01:23] "POST / HTTP/1.1" 200 -
+[ 2024-05-28 01:01:25,764 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/May/2024 01:01:25] "GET /reasons HTTP/1.1" 200 -
+[ 2024-05-28 01:03:16,934 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/May/2024 01:03:16] "GET /reasons HTTP/1.1" 200 -
+[ 2024-05-28 01:06:15,005 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/May/2024 01:06:15] "GET /reasons HTTP/1.1" 200 -
+[ 2024-05-28 01:06:27,154 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/May/2024 01:06:27] "GET /reasons HTTP/1.1" 200 -
+[ 2024-05-28 01:06:27,179 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/May/2024 01:06:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-28 01:10:08,869 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/May/2024 01:10:08] "GET /reasons HTTP/1.1" 200 -
+[ 2024-05-28 01:10:45,367 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/May/2024 01:10:45] "GET /reasons HTTP/1.1" 200 -

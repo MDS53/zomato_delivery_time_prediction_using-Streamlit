@@ -1,0 +1,1 @@
+[ 2024-06-03 17:17:08,335 ] 52 root - ERROR - 'Predictor' object has no attribute 'data' at Prediction_Pipeline.py file

@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Reasons for the Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa; /* Light gray background */
+            padding: 20px;
+        }
+        h1 {
+            color: #e91e63; /* Zomato pink */
+            text-align: center;
+            font-size: 28px;
+            margin-bottom: 20px;
+        }
+        .column-name {
+            background: #fff;
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 4px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            font-size: 18px;
+            color: #333; /* Dark gray */
+            cursor: pointer;
+        }
+        .description {
+            display: none;
+            margin-top: 10px;
+            padding: 10px;
+            border-radius: 4px;
+            background-color: #f0f0f0; /* Light gray */
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .active {
+            display: block;
+        }
+        a {
+            display: block;
+            text-align: center;
+            margin: 20px auto;
+            padding: 10px 20px;
+            width: 150px;
+            color: #fff;
+            background-color: #007bff; /* Zomato blue */
+            text-decoration: none;
+            border-radius: 4px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            transition: background-color 0.3s ease, box-shadow 0.3s ease;
+        }
+        a:hover {
+            background-color: #0056b3;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            text-decoration: none;
+        }
+        .note {
+            margin-top: 30px;
+            padding: 15px;
+            background-color: #fff;
+            border-left: 4px solid #e91e63;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            font-size: 14px;
+            color: #333; /* Dark gray */
+        }
+    </style>
+</head>
+<body>
+    <h1>Reasons for the Prediction</h1>
+
+    <div class="column-name" onclick="toggleDescription('age')">
+        <strong>Age</strong>
+        <div id="age-description" class="description">
+            Statistical analysis shows a correlation of 0.3 between age and delivery time, suggesting that younger people are generally faster at completing deliveries compared to their older peers.
+        </div>
+    </div>
+
+    <div class="column-name" onclick="toggleDescription('road_traffic_density')">
+        <strong>Road Traffic Density</strong>
+        <div id="road_traffic_density-description" class="description">
+            High or jam traffic leads to an increase in delivery time, with a correlation value of 0.4 between road traffic density and the time taken to deliver an order.
+        </div>
+    </div>
+
+    <div class="column-name" onclick="toggleDescription('multiple_deliveries')">
+        <strong>Multiple Deliveries</strong>
+        <div id="multiple_deliveries-description" class="description">
+            More deliveries by a delivery agent will lead to an increase in delivery time, with a correlation value of 0.4 between the number of deliveries and delivery time.
+        </div>
+    </div>
+
+    <div class="column-name" onclick="toggleDescription('festival')">
+        <strong>Festival</strong>
+        <div id="festival-description" class="description">
+            When there is a festival, it leads to more time required for delivery, with a correlation value of 0.3 between the occurrence of a festival and delivery time.
+        </div>
+    </div>
+
+    <div class="column-name" onclick="toggleDescription('time_ordered_and_picked')">
+        <strong>Time Ordered and Picked</strong>
+        <div id="time_ordered_and_picked-description" class="description">
+            An increase in both time ordered and time picked leads to longer delivery times, with a correlation value of 0.2.
+        </div>
+    </div>
+
+    <div class="column-name" onclick="toggleDescription('city')">
+        <strong>City</strong>
+        <div id="city-description" class="description">
+            City type influences delivery times, with a correlation value of 0.2. Metropolitan cities tend to have longer delivery times compared to semi-urban areas, while urban areas generally experience shorter delivery times.
+        </div>
+    </div>
+
+    <div class="column-name" onclick="toggleDescription('delivery_person_ratings')">
+        <strong>Delivery Person Ratings</strong>
+        <div id="delivery_person_ratings-description" class="description">
+            Delivery times decrease as delivery person ratings increase, with a correlation of -0.3 between rating and delivery time.
+        </div>
+    </div>
+
+    <div class="column-name" onclick="toggleDescription('vehicle_condition')">
+        <strong>Vehicle Condition</strong>
+        <div id="vehicle_condition-description" class="description">
+            There is an inverse relationship between vehicle condition and delivery time with a correlation value of -0.2, where a better vehicle condition leads to shorter delivery times.
+        </div>
+    </div>
+
+    <div class="column-name" onclick="toggleDescription('weather_condition_sunny')">
+        <strong>Weather Condition - Sunny</strong>
+        <div id="weather_condition_sunny-description" class="description">
+            Sunny weather conditions are associated with shorter delivery times, indicating that delivery times decrease when it is sunny.
+        </div>
+    </div>
+
+    <a href="{{ url_for('index') }}">Go Back</a>
+
+    <script>
+        function toggleDescription(column) {
+            var description = document.getElementById(column + '-description');
+            description.classList.toggle('active');
+        }
+    </script>
+
+    <div class="note">
+        <p>The correlation between two variables indicates how one variable tends to increase or decrease as the other variable increases or decreases, quantified by a correlation value ranging from -1 to 1. A positive correlation means both variables increase together, while a negative correlation means one variable decreases as the other increases.</p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,301 @@
+[ 2024-05-30 11:12:06,126 ] 35 root - ERROR - name 'logging' is not defined at Prediction_Pipeline.py file
+[ 2024-05-30 11:12:36,613 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 11:12:36,614 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 11:12:36,614 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 11:12:36,620 ] 35 root - ERROR - could not convert string to float: '0 - Very Poor Condition' at Prediction_Pipeline.py file
+[ 2024-05-30 11:16:24,237 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 11:16:24,238 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 11:16:24,239 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 11:16:24,326 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 11:16:59,904 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 11:16:59,905 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 11:16:59,906 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 11:16:59,909 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 11:17:07,406 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 11:17:07,407 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 11:17:07,407 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 11:17:07,411 ] 35 root - ERROR - could not convert string to float: '0 - Very Poor Condition' at Prediction_Pipeline.py file
+[ 2024-05-30 11:17:59,407 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 11:17:59,407 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 11:17:59,408 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 11:17:59,411 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 11:18:05,024 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 11:18:05,025 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 11:18:05,025 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 11:18:05,028 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 11:25:23,914 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 11:25:23,915 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 11:25:23,916 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 11:25:23,921 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 11:30:53,802 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 11:30:53,802 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 11:30:53,803 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 11:30:53,806 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 11:30:53,844 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 11:30:53,845 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 11:30:53,847 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 11:30:53,851 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 11:38:54,787 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 11:38:54,788 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 11:38:54,788 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 11:38:54,792 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 11:39:03,298 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 11:39:03,299 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 11:39:03,300 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 11:39:03,304 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 11:40:00,786 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 11:40:00,787 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 11:40:00,788 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 11:40:00,793 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 11:44:05,531 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 11:44:05,532 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 11:44:05,533 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 11:44:05,538 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 11:44:12,062 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 11:44:12,064 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 11:44:12,065 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 11:44:12,070 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 11:45:33,667 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 11:45:33,667 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 11:45:33,668 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 11:45:33,671 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 11:45:55,141 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 11:45:55,142 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 11:45:55,143 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 11:45:55,148 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 11:58:50,722 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 11:58:50,723 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 11:58:50,724 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 11:58:50,729 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 11:58:58,431 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 11:58:58,431 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 11:58:58,432 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 11:58:58,437 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 11:59:20,833 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 11:59:20,834 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 11:59:20,835 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 11:59:20,838 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 11:59:53,097 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 11:59:53,097 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 11:59:53,098 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 11:59:53,101 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:06:39,129 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:06:39,130 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:06:39,130 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:06:39,133 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:10:09,564 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:10:09,565 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:10:09,566 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:10:09,570 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:10:13,091 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:10:13,092 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:10:13,093 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:10:13,098 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:13:57,680 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:13:57,681 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:13:57,681 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:13:57,684 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:14:22,135 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:14:22,136 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:14:22,137 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:14:22,140 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:16:34,877 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:16:34,878 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:16:34,879 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:16:34,884 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:18:30,835 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:18:30,836 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:18:30,836 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:18:30,840 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:19:44,450 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:19:44,451 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:19:44,452 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:19:44,457 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:20:40,750 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:20:40,750 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:20:40,751 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:20:40,755 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:21:00,829 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:21:00,830 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:21:00,831 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:21:00,836 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:21:25,395 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:21:25,396 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:21:25,397 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:21:25,401 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:23:07,368 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:23:07,369 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:23:07,369 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:23:07,373 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:24:41,032 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:24:41,033 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:24:41,034 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:24:41,039 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:32:06,132 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:32:06,132 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:32:06,133 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:32:06,138 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:33:08,309 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:33:08,310 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:33:08,311 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:33:08,314 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:33:21,162 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:33:21,163 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:33:21,164 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:33:21,169 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:34:00,612 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:34:00,613 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:34:00,614 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:34:00,619 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:35:23,080 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:35:23,081 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:35:23,083 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:35:23,088 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:37:50,856 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:37:50,857 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:37:50,857 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:37:50,860 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:37:57,332 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:37:57,333 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:37:57,334 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:37:57,339 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:38:37,091 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:38:37,092 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:38:37,093 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:38:37,098 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:38:55,842 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:38:55,843 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:38:55,843 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:38:55,849 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:39:18,241 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:39:18,242 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:39:18,243 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:39:18,248 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:40:07,814 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:40:07,816 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:40:07,817 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:40:07,822 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:42:55,128 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:42:55,129 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:42:55,130 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:42:55,135 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:54:23,024 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:54:23,024 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:54:23,025 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:54:23,029 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:54:35,780 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:54:35,781 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:54:35,781 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:54:35,785 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:55:26,095 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:55:26,096 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:55:26,096 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:55:26,099 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:56:42,508 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:56:42,509 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:56:42,509 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:56:42,513 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:57:24,378 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:57:24,379 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:57:24,380 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:57:24,385 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:57:48,768 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:57:48,769 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:57:48,770 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:57:48,773 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 12:58:07,511 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 12:58:07,512 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 12:58:07,513 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 12:58:07,516 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 13:00:10,283 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 13:00:10,284 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 13:00:10,285 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 13:00:10,288 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 13:00:28,274 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 13:00:28,275 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 13:00:28,275 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 13:00:28,278 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 13:00:41,676 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 13:00:41,676 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 13:00:41,677 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 13:00:41,682 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 13:00:51,189 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 13:00:51,190 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 13:00:51,191 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 13:00:51,193 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 13:01:07,183 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 13:01:07,184 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 13:01:07,184 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 13:01:07,187 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 13:01:43,936 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 13:01:43,937 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 13:01:43,938 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 13:01:43,943 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 13:02:30,956 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 13:02:30,957 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 13:02:30,957 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 13:02:30,961 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 13:03:16,889 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 13:03:16,890 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 13:03:16,891 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 13:03:16,895 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 13:03:27,962 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 13:03:27,963 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 13:03:27,963 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 13:03:27,967 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 13:04:10,631 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 13:04:10,631 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 13:04:10,632 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 13:04:10,635 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 13:04:27,580 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 13:04:27,581 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 13:04:27,582 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 13:04:27,587 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 13:04:43,587 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 13:04:43,587 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 13:04:43,588 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 13:04:43,592 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 13:08:03,705 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 13:08:03,705 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 13:08:03,706 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 13:08:03,709 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 13:08:39,571 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 13:08:39,571 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 13:08:39,572 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 13:08:39,576 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 13:09:26,251 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 13:09:26,252 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 13:09:26,252 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 13:09:26,255 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 13:09:37,236 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 13:09:37,237 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 13:09:37,238 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 13:09:37,243 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 13:09:49,152 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 13:09:49,153 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 13:09:49,154 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 13:09:49,159 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 13:09:57,608 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 13:09:57,609 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 13:09:57,610 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 13:09:57,614 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 13:10:08,088 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 13:10:08,089 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 13:10:08,090 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 13:10:08,095 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 13:10:21,010 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 13:10:21,011 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 13:10:21,011 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 13:10:21,017 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 13:11:03,050 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 13:11:03,051 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 13:11:03,052 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 13:11:03,055 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 13:11:08,164 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 13:11:08,165 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 13:11:08,166 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 13:11:08,172 ] 30 root - INFO - Prediction_Pipeline.py ran successfully
+[ 2024-05-30 13:11:50,553 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
+[ 2024-05-30 13:11:50,553 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-05-30 13:11:50,554 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-05-30 13:11:50,557 ] 30 root - INFO - Prediction_Pipeline.py ran successfully

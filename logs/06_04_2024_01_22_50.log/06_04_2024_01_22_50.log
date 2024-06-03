@@ -1,0 +1,3 @@
+[ 2024-06-04 01:22:50,787 ] 88 root - INFO - road_traffic_density() from Pipe class ran successfully
+[ 2024-06-04 01:22:50,788 ] 110 root - INFO - Type_of_vehicle() from Pipe class ran successfully
+[ 2024-06-04 01:22:50,860 ] 69 root - INFO - Prediction_Pipeline.py ran successfully

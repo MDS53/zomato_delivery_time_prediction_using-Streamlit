@@ -40,8 +40,23 @@ class Predictor:
                                 self.data[0]=1 
                         
                         
-                        
-                        
+                        #OrdinalEncoding
+                        self.traffic = {
+                                'Low': 0,
+                                'Medium': 1,
+                                'High': 2,
+                                'Jam': 3
+                        }
+                        self.Vehicle = {
+                                'bicycle':0,
+                                'scooter':1,
+                                'motorcycle':2,
+                                'electric_scooter':3
+                        }
+                        print(self.data[4],self.data[7])
+                        self.data[4]=self.traffic[self.data[4]]
+                        self.data[7]=self.Vehicle[self.data[7]]
+                        print(self.data[4],self.data[7])
                         # Provided dataa
                         
                         print(self.data[0])

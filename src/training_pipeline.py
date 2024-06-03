@@ -12,37 +12,7 @@ from logger import logging
 
 
 
-    
-class CustomTransformer2(BaseEstimator, TransformerMixin):
-    try:
-        def __init__(self, func):
-            self.func = func
 
-        def fit(self, X, y=None):
-            return self
-
-        def transform(self, X):
-            return self.func(X)
-        logging.info("CustomTransformer2 class ran successfully ")
-    except Exception as e:
-        print(f"{e} at CustomTransformer2")
-        logging.error(f"{e} at CustomTransformer2")
-    
-
-class CustomTransformer3(BaseEstimator, TransformerMixin):
-    try:
-        def __init__(self, func):
-            self.func = func
-
-        def fit(self, X, y=None):
-            return self
-
-        def transform(self, X):
-            return self.func(X)
-        logging.info("ColumnTransformer3 ran succesfully")
-    except Exception as e:
-        print(f"{e} at CustomTransformer3")
-        logging.error(f"{e} from CustomTransfomer3 class")
 
 class Data_distribution:
     try:
@@ -70,48 +40,6 @@ class Pipes:
             logging.error(f"{e} from Pipe class's constructor")
         
 
-    def road_traffic_density(self,X):
-        try:
-            self.X=X
-            self.X = self.X.copy()
-            
-            # Define the mapping for road_traffic_density
-            self.density_mapping = {
-                'Low': 0,
-                'Medium': 1,
-                'High': 2,
-                'Jam': 3
-            }
-            
-            # Apply the mapping
-            self.X['Road_traffic_density'] = self.X['Road_traffic_density'].map(self.density_mapping).astype(float)
-            logging.info("road_traffic_density() from Pipe class ran successfully")
-            return self.X
-        
-        except Exception as e:
-            print(f"{e} at road_traffic_density()")
-            logging.error(f"{e} at road_traffic_density() from Pipe class ")
-            
-
-    def Type_of_vehicle(self,X):
-        try:
-            self.X = self.X.copy()
-        
-            # Define the mapping for road_traffic_density
-            self.density_mapping = {
-            'bicycle':0,
-            'scooter':1,
-            'motorcycle':2,
-            'electric_scooter':3
-            }
-            
-            # Apply the mapping
-            self.X['Type_of_vehicle'] = self.X['Type_of_vehicle'].map(self.density_mapping).astype(float)
-            logging.info("Type_of_vehicle() from Pipe class ran successfully")
-            return self.X
-        except Exception as e:
-            print(f"{e} at Type_of_vehicle()")
-            logging.error(f"{e} at Type_of_vehicle() from Pipe class ")
 
     
     
@@ -136,8 +64,6 @@ class Pipes:
             
             
             self.pipeline_ = Pipeline([
-            ('custom2', CustomTransformer2(self.road_traffic_density)),
-            ('custom3', CustomTransformer3(self.Type_of_vehicle)),
             ('Encoding_tnf',self.Encoding_tnf),
             ('scaling_tnf',self.scaling_tnf),
             ('model',self.model)
@@ -161,7 +87,7 @@ class Pipes:
             logging.error(f"{e} at pipeline() from Pipe class ")
 
             
-df=pd.read_csv('Semi_Cleaned_data2.csv')
+df=pd.read_csv('Semi_Cleaned_data3.csv')
 df.drop([df.columns[0]],axis=1,inplace=True)
 p=Pipes(df)
 

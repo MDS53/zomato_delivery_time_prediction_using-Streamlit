@@ -50,7 +50,7 @@ class Predictor:
                         self.Vehicle = {
                                 'bicycle':0,
                                 'scooter':1,
-                                'motorcycle':2,
+                                'Motorcycle':2,
                                 'electric_scooter':3
                         }
                         print(self.data[4],self.data[7])

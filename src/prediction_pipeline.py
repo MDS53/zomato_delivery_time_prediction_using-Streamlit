@@ -74,8 +74,3 @@ class Predictor:
                         logging.error(f"{e} at Prediction_Pipeline.py file")
                         
 
-data= ["DEHRES17DEL01", 36.0, 4.2, "Fog", "Jam", 2, "Snack", "motorcycle", 3.0, "No", 
-                                "Metropolitian", 10.3, 12, 2, 2022, 21.0, 55.0, 22.0, 10.0]
-
-p=Predictor()
-p.results(data)

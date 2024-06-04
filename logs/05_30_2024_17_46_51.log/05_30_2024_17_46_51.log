@@ -1,4 +1,0 @@
-[ 2024-05-30 17:46:51,951 ] 94 root - INFO - frequency encoding() from Pipes class ran successfully
-[ 2024-05-30 17:46:51,951 ] 115 root - INFO - road_traffic_density() from Pipe class ran successfully
-[ 2024-05-30 17:46:51,952 ] 137 root - INFO - Type_of_vehicle() from Pipe class ran successfully
-[ 2024-05-30 17:46:52,014 ] 29 root - INFO - Prediction_Pipeline.py ran successfully

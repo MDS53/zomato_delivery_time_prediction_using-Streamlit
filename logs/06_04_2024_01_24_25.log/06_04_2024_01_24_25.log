@@ -1,2 +1,0 @@
-[ 2024-06-04 01:24:25,676 ] 87 root - ERROR - could not convert string to float: 'Jam' at pipeline() from Pipe class 
-[ 2024-06-04 01:24:25,680 ] 37 root - INFO - Pipes's constructor ran successfully

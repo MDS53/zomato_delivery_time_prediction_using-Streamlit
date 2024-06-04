@@ -1,8 +1,0 @@
-[ 2024-06-03 17:23:06,353 ] 59 root - ERROR - name 'logging' is not defined at Prediction_Pipeline.py file
-[ 2024-06-03 17:23:06,582 ] 72 root - INFO - App Started running...
-[ 2024-06-03 17:23:06,589 ] 109 root - INFO - Submitted result Successfully
-[ 2024-06-03 17:23:12,750 ] 72 root - INFO - App Started running...
-[ 2024-06-03 17:23:12,763 ] 109 root - INFO - Submitted result Successfully
-[ 2024-06-03 17:23:12,809 ] 88 root - INFO - road_traffic_density() from Pipe class ran successfully
-[ 2024-06-03 17:23:12,810 ] 110 root - INFO - Type_of_vehicle() from Pipe class ran successfully
-[ 2024-06-03 17:23:12,878 ] 54 root - INFO - Prediction_Pipeline.py ran successfully

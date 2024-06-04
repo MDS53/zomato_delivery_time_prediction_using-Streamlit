@@ -1,5 +1,0 @@
-[ 2024-06-04 01:30:15,144 ] 33 root - INFO - Metrics() from Performance metrics class done 
-[ 2024-06-04 01:30:15,149 ] 46 root - INFO - Errors() from Performance metrics class done
-[ 2024-06-04 01:30:15,149 ] 15 root - INFO - Performance metrics Class done
-[ 2024-06-04 01:30:15,167 ] 84 root - INFO - pipeline() from Pipe class ran successfully
-[ 2024-06-04 01:30:15,167 ] 37 root - INFO - Pipes's constructor ran successfully

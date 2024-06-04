@@ -1,3 +1,0 @@
-[ 2024-05-30 17:39:38,778 ] 24 root - INFO - Custom Transformer ran successfully
-[ 2024-05-30 17:39:38,778 ] 39 root - INFO - CustomTransformer2 class ran successfully 
-[ 2024-05-30 17:39:38,778 ] 55 root - INFO - ColumnTransformer3 ran succesfully

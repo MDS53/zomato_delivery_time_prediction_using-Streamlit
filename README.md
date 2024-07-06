@@ -109,3 +109,7 @@ https://github.com/MDS53/zomato_delivery_time_prediction_using-Streamlit/assets/
 
 Try out the app!! 
 ### Deployed app: https://r7hamyvjr8yzemeszctquh.streamlit.app/
+
+
+In case, if you would like to connect with me:
+#### Linkedin : https://www.linkedin.com/in/mohammad-salman-a633b9238/

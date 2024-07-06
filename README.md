@@ -1,6 +1,25 @@
-## Delivery Time Prediction Web Application
+# Delivery Time Prediction Web Application
 
+### Introduction:
 This repository contains a Streamlit-based web application for predicting delivery times based on various factors. The application allows users to input delivery details and receive an estimated delivery time. Additionally, users can explore the reasons behind the predictions based on statistical correlations and model insights.
+
+### Technology stack 
+<img src="https://github.com/MDS53/Adultcensusincome-_/assets/82602774/4a1d188d-a4bc-4d25-881d-80e6db331914" alt="Vscode" width="200"/>
+
+<img src="https://github.com/MDS53/Adultcensusincome-_/assets/82602774/4f0730f0-0f7f-4536-af72-ca89802f8b77" alt="Python Logo" width="200"/>
+
+<img src="https://github.com/MDS53/Adultcensusincome-_/assets/82602774/b5ab334c-4f77-4e07-9556-99c6874022e1" alt="Jupyter notebook" width="200"/>
+
+<img src="https://github.com/MDS53/Adultcensusincome-_/assets/82602774/df040526-5e3f-4309-92a2-b092e0bfea9f" alt="Pandas" width="200"/>
+
+<img src="https://github.com/MDS53/Adultcensusincome-_/assets/82602774/708ee0a7-f846-494b-b1ec-a22fa1bf572e" alt="Numpy" width="200"/>
+
+<img src="https://github.com/MDS53/Adultcensusincome-_/assets/82602774/9ff1d913-4cd5-4411-a6b4-0cd66eaf6acb" alt="Sklearn icon" width="200"/>
+
+<img src="https://github.com/MDS53/Youtube-Content-Scrapper/assets/82602774/18062093-e3bf-4dc6-b3c4-9e060d29b144" alt="Streamlit" width="200"/>
+
+
+######
 
 ### Features
 
@@ -88,4 +107,5 @@ Demo :
 
 https://github.com/MDS53/zomato_delivery_time_prediction_using-Streamlit/assets/82602774/4b50910d-c974-4f83-8b3a-9f0817ef08a4
 
-Try out the app!! : https://r7hamyvjr8yzemeszctquh.streamlit.app/
+Try out the app!! 
+### Deployed app: https://r7hamyvjr8yzemeszctquh.streamlit.app/
